@@ -1,9 +1,9 @@
 <?php
 
-namespace AppBundle;
+namespace KikiceBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class AppBundle extends Bundle
+class KikiceBundle extends Bundle
 {
 }

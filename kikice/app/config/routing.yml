@@ -1,3 +1,7 @@
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
+kikice:
+    resource: "@KikiceBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+
+
