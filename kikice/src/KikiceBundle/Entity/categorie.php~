@@ -63,3 +63,4 @@ class categorie
         return $this->nom;
     }
 }
+
